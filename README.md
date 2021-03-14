@@ -8,3 +8,4 @@ The what does website contains?
 4. Transfer table/ Transfer History which records all the transactions
 
 Flow : Home Page --> View all customers --> Select and View one customer --> Transfer Money --> Select customer to transfer to --> View all Customers.
+for website visit: https://jagrit20.github.io/Mars-Bank-management-System/
